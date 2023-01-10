@@ -1,0 +1,379 @@
+Id: 7
+Execution stack: 
+(Ref(int) v|(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Ref(int) v
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a)))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a)))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+New(v, 20)
+(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Ref(Ref(int)) a
+(New(a, v)|(Print(v)|Print(a)))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(New(a, v)|(Print(v)|Print(a)))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+New(a, v)
+(Print(v)|Print(a))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Print(v)|Print(a))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Print(v)
+Print(a)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Print(a)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+(0, Ref(int))
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Ref(int) v|(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Ref(int) v
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a)))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a)))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+New(v, 20)
+(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Ref(Ref(int)) a
+(New(a, v)|(Print(v)|Print(a)))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(New(a, v)|(Print(v)|Print(a)))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+New(a, v)
+(Print(v)|Print(a))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Print(v)|Print(a))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Print(v)
+Print(a)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Print(a)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+(0, Ref(int))
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Ref(int) v|(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Ref(int) v
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a)))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a)))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+New(v, 20)
+(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Ref(Ref(int)) a|(New(a, v)|(Print(v)|Print(a))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Ref(Ref(int)) a
+(New(a, v)|(Print(v)|Print(a)))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(New(a, v)|(Print(v)|Print(a)))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+New(a, v)
+(Print(v)|Print(a))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+(Print(v)|Print(a))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Print(v)
+Print(a)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Print(a)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+(0, Ref(int))
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+(0, Ref(int))
+File table:
+Heap memory:
+
+Id: 7
+Execution stack: 
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+(0, int)
+(0, Ref(int))
+File table:
+Heap memory:
+

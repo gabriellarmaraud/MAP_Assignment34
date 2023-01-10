@@ -1,0 +1,107 @@
+Id: 8
+Execution stack: 
+(Ref(int) v|(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5))))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+Ref(int) v
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5)))))
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+(New(v, 20)|(Ref(Ref(int)) a|(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5)))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+New(v, 20)
+(Ref(Ref(int)) a|(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+(Ref(Ref(int)) a|(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5))))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+Ref(Ref(int)) a
+(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5)))
+Symbol table: 
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+(New(a, v)|(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5)))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+New(a, v)
+(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+(Print(ReadHeap(v))|Print(ReadHeap(ReadHeap(a)) + 5))
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+Print(ReadHeap(v))
+Print(ReadHeap(ReadHeap(a)) + 5)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
+Id: 8
+Execution stack: 
+Print(ReadHeap(ReadHeap(a)) + 5)
+Symbol table: 
+a -> (0, Ref(int))
+v -> (0, int)
+Output list: 
+File table:
+Heap memory:
+
